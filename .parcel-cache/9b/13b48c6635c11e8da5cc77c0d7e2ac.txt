@@ -1,4 +1,4 @@
-19149
+19145
 113C:\Users\mytru\Documents\GitHub\Forkify\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 96C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\stable\typed-array\last-index-of.js121436361000000000 0
 66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\xtend\LICENSE121436361000000000 0
@@ -9,7 +9,7 @@
 96C:\Users\mytru\Documents\GitHub\Forkify\node_modules\serve-handler\node_modules\mime-db\index.js131466269770000000 0
 77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\abortcontroller-polyfill132711270320739757 1
 68C:\Users\mytru\Documents\GitHub\Forkify\node_modules\sshpk\README.md131898308050000000 0
-52C:\Users\mytru\Documents\GitHub\Forkify\package.json132711848886061355 0
+52C:\Users\mytru\Documents\GitHub\Forkify\package.json132711909940641868 0
 82C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\es\data-view\index.js121436361000000000 0
 75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules-values132711270324151224 1
 100C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-timing-functions\node_modules132711270308692881 1
@@ -31,6 +31,12 @@
 57C:\Users\mytru\Documents\GitHub\Forkify\package-lock.json132711848054511224 0
 118C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-display-values\node_modules\postcss\lib\list.js121436361000000000 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\sha.js\hash.js132711270265930024 0
+66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\shebang-regex132711270324699295 1
+88C:\Users\mytru\Documents\GitHub\Forkify\node_modules\highlight.js\lib\languages\nginx.js121436361000000000 0
+78C:\Users\mytru\Documents\GitHub\Forkify\node_modules\terser\lib\utils\index.js121436361000000000 0
+60C:\Users\mytru\Documents\GitHub\Forkify\node_modules\astring132711270331868431 1
+95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\collection-delete-all.js121436361000000000 0
+100C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss\docs\architecture.md121436361000000000 0
 98C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\color-convert\CHANGELOG.md121436361000000000 0
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\readdirp\index.js121436361000000000 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-url\node_modules\postcss\lib\declaration.js121436361000000000 0
@@ -38,15 +44,9 @@
 72C:\Users\mytru\Documents\GitHub\Forkify\node_modules\browserify-zlib\src132711270271271755 1
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\valueOf.js121436361000000000 0
 82C:\Users\mytru\Documents\GitHub\Forkify\node_modules\is-string\.github\FUNDING.yml121436361000000000 0
-44C:\Users\mytru\Documents\GitHub\Forkify\dist132711906155559875 1
+44C:\Users\mytru\Documents\GitHub\Forkify\dist132711910373485097 1
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\esprima\README.md131759443840000000 0
 107C:\Users\mytru\Documents\GitHub\Forkify\node_modules\readable-stream\lib\internal\streams\stream-browser.js121436361000000000 0
-75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\estraverse\LICENSE.BSD121436361000000000 0
-47C:\Users\mytru\Documents\GitHub\Forkify\.vscode132711270331618634 1
-79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\vm-browserify\package.json132711270321898487 0
-71C:\Users\mytru\Documents\GitHub\Forkify\node_modules\filesize\README.md121436361000000000 0
-105C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules\node_modules\postcss\docs\guidelines132711270265404329 1
-59C:\Users\mytru\Documents\GitHub\Forkify\node_modules\srcset132711270323718830 1
 99C:\Users\mytru\Documents\GitHub\Forkify\node_modules\snapdragon\node_modules\source-map\lib\util.js131369414910000000 0
 50C:\Users\mytru\Documents\GitHub\Forkify\index.html132711904364113309 0
 78C:\Users\mytru\Documents\GitHub\Forkify\node_modules\path-to-regexp\index.d.ts131648761350000000 0
@@ -160,14 +160,14 @@
 68C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uri-js\dist\es5132711270262198618 1
 78C:\Users\mytru\Documents\GitHub\Forkify\node_modules\combined-stream\yarn.lock121436361000000000 0
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\fp\path.js121436361000000000 0
+76C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\fp\toIterator.js121436361000000000 0
+87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\hevc.js121436361000000000 0
+61C:\Users\mytru\Documents\GitHub\Forkify\node_modules\has-flag132711270330121586 1
 113C:\Users\mytru\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\function\expression.js121436361000000000 0
 90C:\Users\mytru\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\svg-img.js121436361000000000 0
 72C:\Users\mytru\Documents\GitHub\Forkify\node_modules\log-symbols\license121436361000000000 0
 69C:\Users\mytru\Documents\GitHub\Forkify\node_modules\semver\range.bnf121436361000000000 0
 83C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2019\TrimString.js121436361000000000 0
-76C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\fp\toIterator.js121436361000000000 0
-87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\hevc.js121436361000000000 0
-61C:\Users\mytru\Documents\GitHub\Forkify\node_modules\has-flag132711270330121586 1
 93C:\Users\mytru\Documents\GitHub\Forkify\node_modules\whatwg-encoding\lib\labels-to-names.json121436361000000000 0
 117C:\Users\mytru\Documents\GitHub\Forkify\node_modules\css-declaration-sorter\node_modules\postcss\lib\map-generator.js121436361000000000 0
 71C:\Users\mytru\Documents\GitHub\Forkify\node_modules\string_decoder\lib132711270262020075 1
@@ -196,6 +196,7 @@
 97C:\Users\mytru\Documents\GitHub\Forkify\node_modules\cssstyle\lib\properties\borderBottomColor.js121436361000000000 0
 77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\features\promise132711848036394926 1
 111C:\Users\mytru\Documents\GitHub\Forkify\node_modules\css-declaration-sorter\node_modules\postcss\lib\at-rule.js121436361000000000 0
+63C:\Users\mytru\Documents\GitHub\Forkify\dist\icons.c781f215.svg132711910348524540 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-unique-selectors\node_modules\supports-color\index.js121436361000000000 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-selectors\node_modules\color-convert\README.md121436361000000000 0
 65C:\Users\mytru\Documents\GitHub\Forkify\node_modules\astral-regex132711270331848468 1
@@ -501,12 +502,6 @@
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\delayed-stream132711270330914178 1
 65C:\Users\mytru\Documents\GitHub\Forkify\node_modules\sass\sass.js121436361000000000 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\is-typed-array132711270321968547 1
-66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\shebang-regex132711270324699295 1
-88C:\Users\mytru\Documents\GitHub\Forkify\node_modules\highlight.js\lib\languages\nginx.js121436361000000000 0
-78C:\Users\mytru\Documents\GitHub\Forkify\node_modules\terser\lib\utils\index.js121436361000000000 0
-60C:\Users\mytru\Documents\GitHub\Forkify\node_modules\astring132711270331868431 1
-95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\collection-delete-all.js121436361000000000 0
-100C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss\docs\architecture.md121436361000000000 0
 66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\async-limiter132711270331848468 1
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\is-date-object132711270329591116 1
 68C:\Users\mytru\Documents\GitHub\Forkify\node_modules\caller-callsite132711270331781089 1
@@ -1469,8 +1464,8 @@
 104C:\Users\mytru\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\index.js121436361000000000 0
 120C:\Users\mytru\Documents\GitHub\Forkify\node_modules\stylehacks\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
 82C:\Users\mytru\Documents\GitHub\Forkify\node_modules\which-boxed-primitive\LICENSE121436361000000000 0
-111C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-charset\node_modules\ansi-styles\license131408182550000000 0
 136C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-whitespace\node_modules\chalk\node_modules\supports-color\license131408182550000000 0
+111C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-charset\node_modules\ansi-styles\license131408182550000000 0
 112C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-discard-overridden\node_modules\chalk\index.js.flow121436361000000000 0
 73C:\Users\mytru\Documents\GitHub\Forkify\node_modules\escape-string-regexp132711270330331780 1
 107C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\events\CompositionEvent-impl.js121436361000000000 0
@@ -1546,6 +1541,14 @@
 64C:\Users\mytru\Documents\GitHub\Forkify\node_modules\glob-parent132711270329240943 1
 88C:\Users\mytru\Documents\GitHub\Forkify\node_modules\svgo\node_modules\has-flag\index.js131593941750000000 0
 60C:\Users\mytru\Documents\GitHub\Forkify\node_modules\extglob132711270322499211 1
+99C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-url\node_modules\ansi-styles132711270326157964 1
+69C:\Users\mytru\Documents\GitHub\Forkify\node_modules\sha.js\sha384.js132711270266128091 0
+79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\fails.js121436361000000000 0
+101C:\Users\mytru\Documents\GitHub\Forkify\node_modules\purgecss\node_modules\postcss\lib\lazy-result.js121436361000000000 0
+113C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-discard-comments\node_modules\postcss\docs\syntax.md121436361000000000 0
+106C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\generated\EventModifierInit.js121436361000000000 0
+59C:\Users\mytru\Documents\GitHub\Forkify\node_modules\stable132711270323698820 1
+102C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\helpers\custom-elements.js121436361000000000 0
 75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\optionator\lib\util.js132175434140000000 0
 63C:\Users\mytru\Documents\GitHub\Forkify\node_modules\extsprintf132711270330221676 1
 81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\posthtml-parser\changelog.md121436361000000000 0
@@ -2037,6 +2040,8 @@
 62C:\Users\mytru\Documents\GitHub\Forkify\node_modules\js-tokens132711270329160870 1
 81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2019\MakeDate.js121436361000000000 0
 113C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\parser.js121436361000000000 0
+72C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\stubArray.js121436361000000000 0
+124C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\namespaces.js121436361000000000 0
 83C:\Users\mytru\Documents\GitHub\Forkify\node_modules\is-accessor-descriptor\LICENSE130854730990000000 0
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\mimic-fn\index.js121436361000000000 0
 65C:\Users\mytru\Documents\GitHub\Forkify\node_modules\object-visit132711270328199712 1
@@ -2665,14 +2670,10 @@
 65C:\Users\mytru\Documents\GitHub\Forkify\node_modules\split-string132711270323768881 1
 70C:\Users\mytru\Documents\GitHub\Forkify\node_modules\pn\test\custom.js130904517810000000 0
 81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\whatwg-mimetype\lib\utils.js121436361000000000 0
-99C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-url\node_modules\ansi-styles132711270326157964 1
-69C:\Users\mytru\Documents\GitHub\Forkify\node_modules\sha.js\sha384.js132711270266128091 0
-79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\fails.js121436361000000000 0
-101C:\Users\mytru\Documents\GitHub\Forkify\node_modules\purgecss\node_modules\postcss\lib\lazy-result.js121436361000000000 0
-113C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-discard-comments\node_modules\postcss\docs\syntax.md121436361000000000 0
-106C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\generated\EventModifierInit.js121436361000000000 0
-59C:\Users\mytru\Documents\GitHub\Forkify\node_modules\stable132711270323698820 1
-102C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\helpers\custom-elements.js121436361000000000 0
+79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\vm-browserify\package.json132711270321898487 0
+71C:\Users\mytru\Documents\GitHub\Forkify\node_modules\filesize\README.md121436361000000000 0
+105C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules\node_modules\postcss\docs\guidelines132711270265404329 1
+59C:\Users\mytru\Documents\GitHub\Forkify\node_modules\srcset132711270323718830 1
 66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\static-extend132711270323608728 1
 99C:\Users\mytru\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\getcomputedstyle.js121436361000000000 0
 82C:\Users\mytru\Documents\GitHub\Forkify\node_modules\unbox-primitive\.eslintignore121436361000000000 0
@@ -3890,8 +3891,6 @@
 77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2018\GetV.js121436361000000000 0
 124C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\exceptions.js121436361000000000 0
 95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\purgecss\node_modules\postcss\package.json132711270323981552 0
-72C:\Users\mytru\Documents\GitHub\Forkify\node_modules\lodash\stubArray.js121436361000000000 0
-124C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\namespaces.js121436361000000000 0
 118C:\Users\mytru\Documents\GitHub\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\node.js121436361000000000 0
 82C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2019\GetMethod.js121436361000000000 0
 111C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-charset\node_modules\postcss\lib\root.js121436361000000000 0
@@ -5933,7 +5932,6 @@
 104C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-discard-empty\node_modules\has-flag\license131408182550000000 0
 118C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-timing-functions\node_modules\postcss\README.md121436361000000000 0
 95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\to-string-tag-support.js121436361000000000 0
-67C:\Users\mytru\Documents\GitHub\Forkify\dist\index.9d6d7b3f.css.map132711906155489811 0
 75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\request\lib\cookies.js121436361000000000 0
 80C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\ToInt32.js121436361000000000 0
 105C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts121436361000000000 0
@@ -7926,11 +7924,11 @@
 109C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-string\node_modules\chalk\templates.js121436361000000000 0
 133C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-string\node_modules\chalk\node_modules\supports-color\index.js131792129460000000 0
 89C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\features\weak-set\add-all.js121436361000000000 0
+79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@parcel\utils\src\index.js121436361000000000 0
+132C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-string\node_modules\chalk\node_modules\supports-color\license131408182550000000 0
+81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\ajv\lib\dot\dependencies.jst121436361000000000 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\pako\lib\utils132711270274320330 1
 106C:\Users\mytru\Documents\GitHub\Forkify\node_modules\base\node_modules\is-accessor-descriptor\package.json132711270329035815 0
-79C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@parcel\utils\src\index.js121436361000000000 0
-81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\ajv\lib\dot\dependencies.jst121436361000000000 0
-132C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-string\node_modules\chalk\node_modules\supports-color\license131408182550000000 0
 137C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-string\node_modules\chalk\node_modules\supports-color\package.json132711270326187943 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-normalize-positions\node_modules\color-name\README.md131339336430000000 0
 137C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\namespace.js121436361000000000 0
@@ -8455,6 +8453,8 @@
 111C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\package.json121436361000000000 0
 103C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\LICENSE121436361000000000 0
 108C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\package.json132711270324121205 0
+104C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLPreElement-impl.js121436361000000000 0
+77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\graceful-fs\package.json132711270330071541 0
 110C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\lib\at-rule.js121436361000000000 0
 110C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\lib\comment.js121436361000000000 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@parcel\fs\src132711270257231051 1
@@ -8957,7 +8957,6 @@
 99C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-selectors\node_modules\has-flag132711270327138009 1
 68C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@types\node\dns132711270256953398 1
 98C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-selectors\node_modules\postcss132711270324221287 1
-63C:\Users\mytru\Documents\GitHub\Forkify\dist\index.9d6d7b3f.css132711906155439770 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser132711270322704497 1
 105C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-selectors\node_modules\supports-color132711270327117988 1
 95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\@parcel\transformer-react-refresh-wrap\lib132711270257023426 1
@@ -9430,6 +9429,7 @@
 109C:\Users\mytru\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js121436361000000000 0
 87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\internals\dom-iterables.js121436361000000000 0
 116C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\docs\guidelines132711270265819920 1
+66C:\Users\mytru\Documents\GitHub\Forkify\dist\index.77c5b73d.js.map132711910373475081 0
 120C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\docs\source-maps.md121436361000000000 0
 126C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 114C:\Users\mytru\Documents\GitHub\Forkify\node_modules\postcss-minify-font-values\node_modules\has-flag\package.json132711270327138009 0
@@ -12124,8 +12124,6 @@
 103C:\Users\mytru\Documents\GitHub\Forkify\node_modules\icss-utils\node_modules\postcss\lib\declaration.js121436361000000000 0
 107C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLOptionElement-impl.js121436361000000000 0
 110C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLParagraphElement-impl.js121436361000000000 0
-104C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLPreElement-impl.js121436361000000000 0
-77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\graceful-fs\package.json132711270330071541 0
 109C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLProgressElement-impl.js121436361000000000 0
 106C:\Users\mytru\Documents\GitHub\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLQuoteElement-impl.js121436361000000000 0
 87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\stable\typed-array\from.js121436361000000000 0
@@ -13002,6 +13000,7 @@
 85C:\Users\mytru\Documents\GitHub\Forkify\node_modules\iconv-lite\encodings\internal.js131794416590000000 0
 87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.set.some.js121436361000000000 0
 96C:\Users\mytru\Documents\GitHub\Forkify\node_modules\iconv-lite\encodings\sbcs-data-generated.js131794416590000000 0
+65C:\Users\mytru\Documents\GitHub\Forkify\dist\favicon.6a95e811.png132711910348514535 0
 86C:\Users\mytru\Documents\GitHub\Forkify\node_modules\iconv-lite\encodings\sbcs-data.js131794416590000000 0
 80C:\Users\mytru\Documents\GitHub\Forkify\node_modules\iconv-lite\encodings\tables132711270267139831 1
 81C:\Users\mytru\Documents\GitHub\Forkify\node_modules\iconv-lite\encodings\utf7.js131794416590000000 0
@@ -14045,6 +14044,7 @@
 83C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2019\SplitMatch.js121436361000000000 0
 77C:\Users\mytru\Documents\GitHub\Forkify\node_modules\estraverse\estraverse.js121436361000000000 0
 75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\estraverse\gulpfile.js121436361000000000 0
+75C:\Users\mytru\Documents\GitHub\Forkify\node_modules\estraverse\LICENSE.BSD121436361000000000 0
 76C:\Users\mytru\Documents\GitHub\Forkify\node_modules\estraverse\package.json132711270330181641 0
 87C:\Users\mytru\Documents\GitHub\Forkify\node_modules\core-js\features\date\to-string.js121436361000000000 0
 90C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\5\CheckObjectCoercible.js121436361000000000 0
@@ -14711,7 +14711,6 @@
 85C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\ObjectCreate.js121436361000000000 0
 95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\OrdinaryGetOwnProperty.js121436361000000000 0
 92C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\OrdinaryHasInstance.js121436361000000000 0
-65C:\Users\mytru\Documents\GitHub\Forkify\dist\favicon.80934ffe.png132711906154789190 0
 92C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\OrdinaryHasProperty.js121436361000000000 0
 88C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\QuoteJSONString.js121436361000000000 0
 95C:\Users\mytru\Documents\GitHub\Forkify\node_modules\es-abstract\2016\RequireObjectCoercible.js121436361000000000 0
@@ -19141,10 +19140,7 @@
 66C:\Users\mytru\Documents\GitHub\Forkify\node_modules\.bin\uuid.ps1132711270335062587 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\.bin\which.cmd132711270335102624 0
 67C:\Users\mytru\Documents\GitHub\Forkify\node_modules\.bin\which.ps1132711270335102624 0
-63C:\Users\mytru\Documents\GitHub\Forkify\dist\icons.c4b52749.svg132711906154769159 0
-63C:\Users\mytru\Documents\GitHub\Forkify\dist\icons.d4a14980.svg132711906154789190 0
-62C:\Users\mytru\Documents\GitHub\Forkify\dist\index.250b04c7.js132711906155499831 0
-66C:\Users\mytru\Documents\GitHub\Forkify\dist\index.250b04c7.js.map132711906155559875 0
-55C:\Users\mytru\Documents\GitHub\Forkify\dist\index.html132711906155439770 0
-62C:\Users\mytru\Documents\GitHub\Forkify\dist\logo.5d271741.png132711273407878576 0
-61C:\Users\mytru\Documents\GitHub\Forkify\.vscode\settings.json132711270331965729 0
+63C:\Users\mytru\Documents\GitHub\Forkify\dist\index.37bbc3ce.css132711910373415581 0
+67C:\Users\mytru\Documents\GitHub\Forkify\dist\index.37bbc3ce.css.map132711910373435595 0
+62C:\Users\mytru\Documents\GitHub\Forkify\dist\index.77c5b73d.js132711910373425584 0
+55C:\Users\mytru\Documents\GitHub\Forkify\dist\index.html132711910373415581 0
