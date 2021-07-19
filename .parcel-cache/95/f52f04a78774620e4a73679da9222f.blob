@@ -59,6 +59,28 @@
                   </div>
                 </ul>
               </div>
+            </li>
+            <li class="nav__item">
+              <button class="nav__btn nav__btn--bookmarks">
+                <svg class="nav__icon">
+                  <use href="/icons.HASH_REF_677b672340424c465b277708c4b52749.svg"></use>
+                </svg>
+                <span>About</span>
+              </button>
+              <div class="bookmarks">
+                <ul class="bookmarks__list">
+                  <div class="message">
+                    <div>
+                      <svg>
+                        <use href="/icons.HASH_REF_677b672340424c465b277708c4b52749.svg"></use>
+                      </svg>
+                    </div>
+                    <p>
+                      A application where users can serach, view, modify, create, and bookmark recipes.                      
+                    </p>
+                  </div>
+                </ul>
+              </div>
 
               
             </li>
@@ -126,9 +148,9 @@
         </div>
 
         <button class="btn upload__btn">
-          <svg>
-            <use href="/icons.HASH_REF_677b672340424c465b277708c4b52749.svg"></use>
-          </svg>
+          <i class="fas fa-cloud-upload-alt"></i>
+
+
           <span>Upload</span>
         </button>
       </form>
